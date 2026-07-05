@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+*.db
+.system_generated/
+.git/
+.vscode/
+package-lock.json
